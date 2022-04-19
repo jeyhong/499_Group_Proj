@@ -1,0 +1,651 @@
+[
+  {
+    "uid": 0,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 0.73046875,
+            "y": 0.108428955,
+            "z": 0.108428955,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.19256018,
+                "y": 1.0
+              },
+              {
+                "x": 0.19256018,
+                "y": 0.982906
+              },
+              {
+                "x": 0.1750547,
+                "y": 0.982906
+              },
+              {
+                "x": 0.1750547,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 214.66666,
+        "y": 268.3556
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 1,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.21006565,
+                "y": 1.0
+              },
+              {
+                "x": 0.21006565,
+                "y": 0.982906
+              },
+              {
+                "x": 0.19256018,
+                "y": 0.982906
+              },
+              {
+                "x": 0.19256018,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 332.66663,
+        "y": 240.35556
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 2,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.22757111,
+                "y": 1.0
+              },
+              {
+                "x": 0.22757111,
+                "y": 0.982906
+              },
+              {
+                "x": 0.21006565,
+                "y": 0.982906
+              },
+              {
+                "x": 0.21006565,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 544.6666,
+        "y": 240.35556
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 3,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.28008753,
+                "y": 1.0
+              },
+              {
+                "x": 0.28008753,
+                "y": 0.982906
+              },
+              {
+                "x": 0.26258206,
+                "y": 0.982906
+              },
+              {
+                "x": 0.26258206,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 448.6667,
+        "y": 221.06668
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 4,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.14004377,
+                "y": 1.0
+              },
+              {
+                "x": 0.14004377,
+                "y": 0.982906
+              },
+              {
+                "x": 0.12253829,
+                "y": 0.982906
+              },
+              {
+                "x": 0.12253829,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": -88.0,
+        "y": 202.40001
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 5,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.105032824,
+                "y": 1.0
+              },
+              {
+                "x": 0.105032824,
+                "y": 0.982906
+              },
+              {
+                "x": 0.08752735,
+                "y": 0.982906
+              },
+              {
+                "x": 0.08752735,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 36.0,
+        "y": 367.91113
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 6,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.19256018,
+                "y": 1.0
+              },
+              {
+                "x": 0.19256018,
+                "y": 0.982906
+              },
+              {
+                "x": 0.1750547,
+                "y": 0.982906
+              },
+              {
+                "x": 0.1750547,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 109.33331,
+        "y": 65.51111
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 7,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.12253829,
+                "y": 1.0
+              },
+              {
+                "x": 0.12253829,
+                "y": 0.982906
+              },
+              {
+                "x": 0.105032824,
+                "y": 0.982906
+              },
+              {
+                "x": 0.105032824,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 407.33337,
+        "y": 306.93338
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 8,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.28008753,
+                "y": 1.0
+              },
+              {
+                "x": 0.28008753,
+                "y": 0.982906
+              },
+              {
+                "x": 0.26258206,
+                "y": 0.982906
+              },
+              {
+                "x": 0.26258206,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 186.0,
+        "y": 369.15558
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 9,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.1750547,
+                "y": 1.0
+              },
+              {
+                "x": 0.1750547,
+                "y": 0.982906
+              },
+              {
+                "x": 0.15754923,
+                "y": 0.982906
+              },
+              {
+                "x": 0.15754923,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 346.0,
+        "y": 340.53336
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  },
+  {
+    "uid": 10,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "type": "components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "spr": {
+            "texId": 0,
+            "width": 16.0,
+            "height": 16.0,
+            "texture": {
+              "filepath": "assets/images/Tiles/tiles_spritesheet.png",
+              "texID": 2,
+              "width": 914,
+              "height": 936
+            },
+            "texCoords": [
+              {
+                "x": 0.24507658,
+                "y": 1.0
+              },
+              {
+                "x": 0.24507658,
+                "y": 0.982906
+              },
+              {
+                "x": 0.22757111,
+                "y": 0.982906
+              },
+              {
+                "x": 0.22757111,
+                "y": 1.0
+              }
+            ]
+          },
+          "UID": -1,
+          "uid": 0
+        }
+      }
+    ],
+    "transform": {
+      "position": {
+        "x": 76.66666,
+        "y": 219.82224
+      },
+      "scale": {
+        "x": 64.0,
+        "y": 64.0
+      }
+    },
+    "zIndex": 0
+  }
+]
